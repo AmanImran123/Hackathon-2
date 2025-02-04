@@ -17,7 +17,7 @@ export default function Header() {
                     <div className="flex items-center space-x-2">
                         <RxEnvelopeClosed className="w-4 h-4 text-white" />
                         <span className="hidden sm:inline text-white font-[Josefin Sans] font-semibold text-sm md:text-base">
-                            atifahmed@gmail.com
+                            amamimran024@gmail.com
                         </span>
                     </div>
 
